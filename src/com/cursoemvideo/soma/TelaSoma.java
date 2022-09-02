@@ -1,4 +1,4 @@
-package src.com.cursoemvideo.soma;
+package src.com.calculadorasoma.soma;
 
 import java.awt.EventQueue;
 
